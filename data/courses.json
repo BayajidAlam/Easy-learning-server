@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "System design"
+  },
+  {
+    "id": "02",
+    "name": "Data structure"
+  },
+  {
+    "id": "03",
+    "name": "Algorithmn"
+  },
+  {
+    "id": "04",
+    "name": "Discreate Math"
+  },
+  {
+    "id": "05",
+    "name": "Machine learning"
+  },
+  {
+    "id": "06",
+    "name": "Structural programming language"
+  },
+  {
+    "id": "07",
+    "name": "C++"
+  },
+  {
+    "id": "08",
+    "name": "Basic CSE"
+  },
+  {
+    "id": "09",
+    "name": "Web design"
+  }
+]

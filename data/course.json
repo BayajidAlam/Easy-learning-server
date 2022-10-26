@@ -1,0 +1,81 @@
+[  {
+  "id": "01",
+  "title": "System design",
+  "picture": "https://postimg.cc/pmRFYxBZ",
+  "duration": "90Day",
+  "Mentor": "Bayajid Alam Juyel",
+  "price":3000,
+  "dispcription": "This course is design for beginner who are weak in system design.By completing this course you wil be able to answer a good ammount of question and cut a good figure in exam.\r\n"
+},
+ {
+  "id": "02",
+  "title": "Data structure",
+  "picture": "https://postimg.cc/14KVHXvj",
+  "duration": "120Day",
+  "Mentor": "Al-Amin Mojumder",
+  "price":5000,
+  "dispcription": "This course is design for beginner who are weak in Data structure.This course will increase your courage,By completing this course you wil be able to answer a good ammount of question and cut a good figure in exam.\r\n"
+},
+  {
+  "id": "03",
+  "title": "Algorithmn",
+  "picture": "https://postimg.cc/2L5kTk5s",
+  "duration": "120Day",
+  "Mentor": "Rupak Ahmed",
+  "price":5000,
+  "dispcription": "Rupak sir is well known Programmer who have completed his Master in DSA from oxford University.\r\n"
+},
+  {
+  "id": "04",
+  "title": "Discreate Math",
+  "picture": "https://postimg.cc/rDw1Wxcj",
+  "duration": "90Day",
+  "Mentor": "Judan Mojumder",
+  "price":3500,
+  "dispcription": "Discreate math course is designed for CSE student who are interested in Programming.Like DSA Discreate mathematics is important for Programming.so if you are interested in dsa this course will help you much\r\n"
+},
+ {
+  "id": "05",
+  "title": "Machine learning",
+  "picture": "https://postimg.cc/mtHDnrj4",
+  "duration": "120Day",
+  "Mentor": "Elyas Hossain",
+  "price":5500,
+  "dispcription": "Machine learning is important because it gives enterprises a view of trends in customer behavior and business operational patterns, as well as supports the development of new products. Many of today's leading companies, such as Facebook, Google and Uber, make machine learning a central part of their operations. Machine learning has become a significant competitive differentiator for many companies..\r\n"
+},
+  {
+  "id": "06",
+  "title": "Structural programming language",
+  "picture": "https://postimg.cc/mcDW0X49",
+  "duration": "60Day",
+  "Mentor": "Shamim Bhai",
+  "price":3500,
+  "dispcription": "The structured program consists of well structured and separated modules. But the entry and exit in a Structured program is a single-time event. It means that the program uses single-entry and single-exit elements. Therefore a structured program is well maintained, neat and clean program. This is the reason why the Structured Programming Approach is well accepted in the programming world.so if you are interested join this course.\r\n"
+},
+  {
+  "id": "07",
+  "title": "C++",
+  "picture": "https://postimg.cc/WdtPyYTk",
+  "duration": "90Day",
+  "Mentor": "Tarak Mahmud",
+  "price":4500,
+  "dispcription": "C++ is an advanced language that supports various programming methods like functional, procedural, and object-oriented programming. It is a fast language; its compile-time and execution time is faster than other programming languages. Some programming languages are also faster than C++. Still, like C++, they are not close to the machine code, as it is an intermediary language, so big organizations rely on C++ for fast speed with lesser resources.\r\n"
+},
+  {
+  "id": "08",
+  "title": "Basic CSE",
+  "picture": "https://postimg.cc/1VzWzTW0",
+  "duration": "160Day",
+  "Mentor": "Sarker Rakib Hasan",
+  "price":20000,
+  "dispcription": "The most important aspect of computer science is problem solving, an essential skill for life. Students study the design, development and analysis of software and hardware used to solve problems in a variety of business, scientific and social contexts..\r\n"
+},
+  {
+  "id": "09",
+  "title": "Web design",
+  "picture": "https://postimg.cc/67NYZTjp",
+  "duration": "180Day",
+  "Mentor": "Najmul Alam Sojib",
+  "price":20000,
+  "dispcription": "A well-designed website can help you form a good impression on your prospective customers. It can also help you nurture your leads and get more conversions. But, more importantly, it provides good user experience and helps your website visitors access and navigate your website with ease. so if you interested join now!\r\n"
+}]
