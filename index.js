@@ -26,12 +26,6 @@ app.get('/course',(req,res)=> {
   res.send(course)
 })
 
-// for single couse heading in client side 
-
-app.get('/cheeckout',(req,res)=> {
-  res.send(course)
-})
-
 app.get('/courses',(req,res)=> {
   res.send(course)
 })
