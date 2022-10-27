@@ -10,20 +10,26 @@ const course = require('./data/course.json')
 app.get('/',(req,res)=> {
   res.send('Hello from express')
 })
-
+// for category
 app.get('/category',(req,res)=> {
   res.send(category)
 })
-
-app.get('/course',(req,res)=> {
-  res.send(course)
-})
-
+// for dynamic route 
 app.get('/course/:id', (req,res)=>{
   const id = req.params.id
   const selectedCourse = course.find( n => n.id === id)
   res.send(selectedCourse)
   console.log(selectedCourse)
+})
+// for all course with details 
+app.get('/course',(req,res)=> {
+  res.send(course)
+})
+
+// for single couse heading in client side 
+
+app.get('/cheeckout',(req,res)=> {
+  res.send(course)
 })
 
 app.get('/courses',(req,res)=> {
