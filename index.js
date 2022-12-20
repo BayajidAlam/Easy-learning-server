@@ -19,7 +19,13 @@ app.get('/course/:id', (req,res)=>{
   const id = req.params.id
   const selectedCourse = course.find( n => n.id === id)
   res.send(selectedCourse)
-  console.log(selectedCourse)
+})
+
+// for purchage page
+app.get('/cheeckout/:id',(req,res)=>{
+  const id = req.params.id 
+  const selectedForPurchage = course.find(n => n.id === id)
+  res.send(selectedForPurchage);
 })
 // for all course with details 
 app.get('/course',(req,res)=> {
